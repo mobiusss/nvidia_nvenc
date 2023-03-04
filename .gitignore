@@ -1,3 +1,4 @@
 data
 VideoProcessingFramework
 venv
+__pycache__
